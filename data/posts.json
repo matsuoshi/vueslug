@@ -1,0 +1,17 @@
+[
+  {
+    "slug": "post1",
+    "title": "title 1",
+    "content": "コンテンツ"
+  },
+  {
+    "slug": "post2",
+    "title": "title 2",
+    "content": "コンテンツ その2"
+  },
+  {
+    "slug": "foobar",
+    "title": "テストのタイトル",
+    "content": "コンテンツ その3 です"
+  }
+]
